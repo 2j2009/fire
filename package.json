@@ -1,2 +1,3 @@
-npm init -y
-npm install ws
+"scripts": {
+  "start": "node server.js"
+}
